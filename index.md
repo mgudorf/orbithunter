@@ -1,6 +1,4 @@
-# orbithunter : framework for solving spatiotemporal partial differential equations
-
- [orbithunter github](https://github.com/mgudorf/orbithunter/) to maintain and preview the content for your website in Markdown files.
+# [orbithunter github](https://github.com/mgudorf/orbithunter/)  : framework for solving spatiotemporal partial differential equations
 
 # Introduction 
 
